@@ -1,1 +1,2 @@
-* Hoa primera linea del archivo
+* Hola primera línea del archivo
+** Hola segunda línea
