@@ -7,4 +7,4 @@ this is the fifth line an the last
 * third time
 * fourth time
 * fifth time
- New branche to practice conflicts
+ I,m change the same line to resolve conflicts
